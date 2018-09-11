@@ -1,2 +1,2 @@
 # TP-BD2
-Trabajo Practico Base de Datos 2 2018 2do Cuatrimestre
+En esta carpeta se encuentran los script de creación de tablas
