@@ -6,3 +6,4 @@ CREATE TABLE [dbo].[Servicio](
 GO
 SET ANSI_PADDING OFF
 GO
+		12
