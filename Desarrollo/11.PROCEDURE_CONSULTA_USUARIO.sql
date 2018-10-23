@@ -1,4 +1,4 @@
-ALTER PROCEDURE consulta_usuario
+CREATE PROCEDURE consulta_usuario
 	@usuario varchar(50),
 	@filas_por_pag int,
 	@num_pag int
