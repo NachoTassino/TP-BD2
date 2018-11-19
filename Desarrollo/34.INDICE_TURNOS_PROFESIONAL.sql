@@ -1,0 +1,1 @@
+CREATE INDEX idx_turnos_profesional ON Turnos(id_profesional)

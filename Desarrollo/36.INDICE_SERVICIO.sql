@@ -1,0 +1,1 @@
+CREATE INDEX idx_servicio ON Servicio(id)

@@ -1,0 +1,1 @@
+CREATE INDEX idx_turnos_servicio ON Turnos(id_servicio)
